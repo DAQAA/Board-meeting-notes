@@ -7,7 +7,6 @@
 - [ ] EOY survey
 
 # Later
-- [ ] update linkedin
 - [ ] slack
 - [ ] conference communication
 - [ ] DMACC partnering for av
