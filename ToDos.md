@@ -1,8 +1,17 @@
-# To Do
-- [ ] sponsorships
-- [ ] speakers for meetings
-- [ ] workshops
+# Sooner
+- [ ] sponsorships - Dennis Young AE, letter out
+- [ ] speaker for January 
+- [ ] speakers for future meetings, March Derek Swoboda
+- [ ] workshop March? May?
+- [ ] update linkedin
+- [ ] EOY survey
 
-# Next
+# Later
+- [ ] update linkedin
+- [ ] slack
+- [ ] conference communication
+- [ ] DMACC partnering for av
 - [ ] blog
 - [ ] surveys
+- [ ] book club
+- [ ] treasury stuff
