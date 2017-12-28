@@ -1,5 +1,5 @@
 # Sooner
-- [ ] sponsorships - Dennis Young AE, letter out
+- [x] sponsorships - Dennis Young AE, letter out
 - [ ] speaker for January 
 - [ ] speakers for future meetings, March Derek Swoboda
 - [ ] workshop March? May?
