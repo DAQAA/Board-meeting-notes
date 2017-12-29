@@ -2,15 +2,15 @@
 - [ ] speaker for January  - Mike, Dusty, Annette
 - [ ] sponsorships - Mike, Kori
 - [ ] speakers for future meetings - everyone
-- [ ] workshop March? May? - everyone
+- [ ] workshop March? May? - Dusty, Kori, everyone
 - [ ] update linkedin
-- [ ] EOY survey - set to go out
+- [ ] EOY survey - Dusty set to go out
 
 # Later
 - [ ] slack
 - [ ] conference communication
 - [ ] DMACC partnering for av
 - [ ] blog
-- [ ] surveys
+- [ ] session surveys
 - [ ] book club
-- [ ] treasury stuff
+- [ ] treasury reports
