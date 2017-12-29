@@ -1,10 +1,10 @@
 # Sooner
-- [ ] speaker for January 
-- [ ] sponsorships - Dennis Young AE, letter out
-- [ ] speakers for future meetings, March Derek Swoboda
-- [ ] workshop March? May?
+- [ ] speaker for January  - Mike, Dusty, Annette
+- [ ] sponsorships - Mike, Kori
+- [ ] speakers for future meetings - everyone
+- [ ] workshop March? May? - everyone
 - [ ] update linkedin
-- [ ] EOY survey
+- [ ] EOY survey - set to go out
 
 # Later
 - [ ] slack
