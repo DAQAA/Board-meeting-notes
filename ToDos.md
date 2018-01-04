@@ -15,3 +15,4 @@
 - [ ] book club
 - [ ] Monthly Treasurers report
 - [ ] Resources page on the website
+- [ ] Secure our website with https
