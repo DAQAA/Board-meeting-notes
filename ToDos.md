@@ -1,16 +1,17 @@
 # Sooner
-- [ ] speaker for January  - Mike, Dusty, Annette
-- [ ] sponsorships - Mike, Kori
-- [ ] speakers for future meetings - everyone
-- [ ] workshop March? May? - Dusty, Kori, everyone
-- [ ] update linkedin
+- [X] Speaker for January  - Mike, Dusty, Annette
+- [ ] Sponsorships - Mike, Dusty, Kori
+- [ ] Speakers for future meetings - everyone
+- [ ] Workshop March? May? - Dusty, Kori, everyone
+- [X] Update Linkedin
 - [ ] EOY survey - Dusty set to go out
 
 # Later
-- [ ] slack
+- [ ] Slack self-signup
 - [ ] conference communication
 - [ ] DMACC partnering for av
-- [ ] blog
-- [ ] session surveys
+- [ ] Blog
+- [ ] Session surveys
 - [ ] book club
-- [ ] treasury reports
+- [ ] Treasurers report monthly
+- [ ] Resources page on the website
