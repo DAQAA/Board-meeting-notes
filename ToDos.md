@@ -13,5 +13,5 @@
 - [ ] Blog
 - [ ] Session surveys
 - [ ] book club
-- [ ] Treasurers report monthly
+- [ ] Monthly Treasurers report
 - [ ] Resources page on the website
