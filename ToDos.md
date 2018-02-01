@@ -4,7 +4,7 @@
 - [ ] Speakers for future meetings - everyone
 - [ ] Workshop March? May? - Dusty, Kori, everyone
 - [X] Update Linkedin
-- [ ] EOY survey - Dusty set to go out
+- [X] EOY survey
 - [ ] More tech training for board members
 
 # Later
