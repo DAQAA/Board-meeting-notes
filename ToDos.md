@@ -14,6 +14,6 @@
 - [ ] Blog
 - [ ] Session surveys
 - [ ] book club
-- [ ] Monthly Treasurers report
+- [ ] Monthly Treasurers update
 - [ ] Resources page on the website
 - [ ] Secure our website with https
