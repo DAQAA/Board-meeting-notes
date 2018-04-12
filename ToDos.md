@@ -19,4 +19,4 @@
 - [ ] book club
 - [ ] Monthly Treasurers update
 - [ ] Resources page on the website
-- [ ] Secure our website with https
+- [X] Secure our website with https
