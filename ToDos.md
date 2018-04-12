@@ -3,6 +3,7 @@
 - [ ] Sponsorships - Mike, Dusty, Kori
 - [ ] Speakers for future meetings - everyone
 - [X] Spring Workshop - Dusty, Kori, everyone
+- [ ] Joint IIBA-CIC / DAQAA meeting on Mind Mapping w/tap|QA for July
 - [X] Update Linkedin
 - [X] EOY survey
 - [ ] More tech training for board members
