@@ -9,6 +9,7 @@
 - [ ] More tech training for board members
 
 # Later
+- [ ] Add logos for 2018 sponsors to the website
 - [ ] Slack self-signup
 - [ ] 2018 workshop speakers
 - [ ] conference communication
