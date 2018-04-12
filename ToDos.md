@@ -2,7 +2,7 @@
 - [X] Speaker for January  - Mike, Dusty, Annette
 - [ ] Sponsorships - Mike, Dusty, Kori
 - [ ] Speakers for future meetings - everyone
-- [ ] Workshop March? May? - Dusty, Kori, everyone
+- [X] Spring Workshop - Dusty, Kori, everyone
 - [X] Update Linkedin
 - [X] EOY survey
 - [ ] More tech training for board members
