@@ -11,7 +11,7 @@
 # Later
 - [X] Add logos for 2018 sponsors to the website
 - [ ] Slack self-signup
-- [ ] 2018 workshop speakers
+- [X] 2018 workshop speakers
 - [ ] conference communication
 - [ ] DMACC partnering for av
 - [ ] Blog
